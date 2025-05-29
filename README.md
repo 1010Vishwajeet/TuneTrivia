@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------
 								
-				TuneTrivia
+				                          TuneTrivia
 
 -------------------------------------------------------------------------------
-				Problem statement (i.e., what is the problem?)
+				        Problem statement (i.e., what is the problem?)
 -------------------------------------------------------------------------------
 
 Sometimes people want to improve their musical knowledge or prove their 
